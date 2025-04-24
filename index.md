@@ -26,9 +26,9 @@ I am a Ph.D. Candidate at the University of Victoria in Canada. I have worked on
 
 - Z. Zhang, J. Hong, **A. M. S. Enayati**, and H. Najjaran. *Using Implicit Behavior Cloning and Dynamic Movement Primitive to Facilitate Reinforcement Learning for Robot Motion Planning*, **IEEE Transactions on Robotics**. ([Link](https://ieeexplore.ieee.org/abstract/document/10694731))
 
-<img src="assets/implicit_bc_dmp.png" alt="Project Image" style="width:80%; max-width:600px; display:block; margin: 0.5em auto;">
+<img src="assets/implicit_bc_dmp.png" alt="Project Image" style="width:60%; max-width:450px; display:block; margin: 0.5em auto;">
 
-<div style="margin-left: 1.5em;">
+<div style="margin-left: 2.5em; font-size: 0.9em; margin-bottom: 1.5em;">
   <strong>Abstract:</strong> Reinforcement learning (RL) for motion planning of multi-degree-of-freedom robots still suffers from low efficiency in terms of slow training speed and poor generalizability. In this article, we propose a novel RL-based robot motion planning framework that uses implicit behavior cloning (IBC) and dynamic movement primitive (DMP) to improve the training speed and generalizability of an off-policy RL agent. IBC utilizes human demonstration data to leverage the training speed of RL, and DMP serves as a heuristic model that transfers motion planning into a simpler planning space. To support this, we also create a human demonstration dataset using a pick-and-place experiment that can be used for similar studies. Comparison studies reveal the advantage of the proposed method over the conventional RL agents with faster training speed and higher scores. A real-robot experiment indicates the applicability of the proposed method to a simple assembly task. Our work provides a novel perspective on using motion primitives and human demonstration to leverage the performance of RL for robot applications.
 </div>
 
