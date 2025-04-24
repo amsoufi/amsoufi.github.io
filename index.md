@@ -10,7 +10,7 @@ theme: jekyll-theme-cayman
 
 I am a Ph.D. Candidate at the University of Victoria in Canada. I have worked on multiple robotic and intelligent systems projects, mostly focused on applied Reinforcement Learning. My interests include reinforcement learning, representation learning, deep generative models, simulation and modeling, robot design and control, and intelligent manufacturing. Previously, I studied control theory and applied design and worked as a mechanical design engineer and automation engineer.
 
-**[Google Scholar](https://scholar.google.com/citations?user=_hhVX9QAAAAJ&hl=en)** / **[LinkedIn](https://www.linkedin.com/in/amsoufi/)** / **[amsoufi@uvic.ca](mailto:amsoufi@uvic.ca)** / +1-778-392-7158
+**[Google Scholar](https://scholar.google.com/citations?user=_hhVX9QAAAAJ&hl=en)** / **[LinkedIn](https://www.linkedin.com/in/amsoufi/)** / **[Email](mailto:am.soufi@gmail.com)**
 
 
 ## Current Projects
