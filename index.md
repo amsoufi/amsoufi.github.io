@@ -14,6 +14,7 @@ I am a Ph.D. Candidate at the University of Victoria in Canada. I have worked on
 
 
 ## Current Projects
+
 - **Transformer-Encoder-Decoder for Zero-shot Adaptation**  
   Developing a Transformer-based task-conditioned meta-RL model that encodes the embedding of interaction histories. Designed for sample-efficient generalization to unseen manipulation tasks using representation learning in high-dimensional state-action spaces.
 
@@ -23,7 +24,6 @@ I am a Ph.D. Candidate at the University of Victoria in Canada. I have worked on
 
 ## Publications
 
-### Journal Papers
 - Z. Zhang, J. Hong, **A. M. S. Enayati**, and H. Najjaran. *Using Implicit Behavior Cloning and Dynamic Movement Primitive to Facilitate Reinforcement Learning for Robot Motion Planning*, **IEEE Transactions on Robotics**. ([Link](https://ieeexplore.ieee.org/abstract/document/10694731))
 
 - Y. Karpichev, T. Charter, J. Hong, **A. M. S. Enayati**, H. Honari, M. G. Tamizi, and H. Najjaran. *Extended Reality for Enhanced Human-Robot Collaboration: a Human-in-the-Loop Approach*, **IEEE ROMAN 2024**. ([Link](https://ieeexplore.ieee.org/abstract/document/10731170))
@@ -48,12 +48,14 @@ I am a Ph.D. Candidate at the University of Victoria in Canada. I have worked on
 
 
 ## Patents
+
 - M. Durali, M. H. Heydari, **A. M. S. Enayati**, S. M. Hosseini. *Testing mechanical overspeed protection systems*, **US Patent No. 2024/0003264 A1**, 2024.
 
 - M. Durali, M. A. Soleimani, F. F. Shabani, A. Habibollahi, A. Sohbatloo, **A. M. S. Enayati**. *Controlling acoustics of a performance space*, **US Patent No. 2019/0292774 A1**, 2019.
 
 
   ## Education
+  
 - Ph.D. in Mechanical Engineering, University of Victoria/University of British Columbia, Canada
 - M.Sc. in Mechanical Engineering - Control Systems, Sharif University of Technology, Tehran, Iran
 - B.Sc. in Mechanical Engineering, Sharif University of Technology, Tehran, Iran
