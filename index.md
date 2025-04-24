@@ -54,7 +54,7 @@ I am a Ph.D. Candidate at the University of Victoria in Canada. I have worked on
 - M. Durali, M. A. Soleimani, F. F. Shabani, A. Habibollahi, A. Sohbatloo, **A. M. S. Enayati**. *Controlling acoustics of a performance space*, **US Patent No. 2019/0292774 A1**, 2019.
 
 
-  ## Education
+## Education
   
 - Ph.D. in Mechanical Engineering, University of Victoria/University of British Columbia, Canada
 - M.Sc. in Mechanical Engineering - Control Systems, Sharif University of Technology, Tehran, Iran
